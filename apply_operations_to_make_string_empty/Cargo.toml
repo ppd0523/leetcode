@@ -1,0 +1,6 @@
+[package]
+name = "apply_operations_to_make_string_empty"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
